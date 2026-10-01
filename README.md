@@ -43,7 +43,8 @@ A spellchecker backed by a hand-written Binary Search Tree (Java 17, JUnit 5).
 - **Incorrect sentence (contains misspellings):**
   `Vanilla buy me Labooboo Sunny Angels Sunny Dubai Chocolate Onika Burger We finna be in the pit Mama a girl behind you Pistacheerio Donut Limited Edition Nintendo Switch`
 
-[<img width="460" height="667" alt="image" src="https://github.com/user-attachments/assets/878a3d4b-49bf-4dfa-8784-bad2e98cf1e4" />](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT5E9IOARO4XbhsQe2V-OCVscVmjvXe3OYxjjHahkm9y58FoqQC7C5SuYw&s=10)
+<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/855a044f-57f0-42fc-87f4-fe0732e01aad" />
+
 ```
 mvn test
 ```
